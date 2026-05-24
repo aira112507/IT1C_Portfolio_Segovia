@@ -1,1 +1,36 @@
-# readme-
+# **Hey, I'am Aira Segovia**
+
+🎓 IT Students    
+🐍 Currently studying Python   
+
+
+## Skills
+- Python
+- C Language
+  
+
+## Goals
+- Become a Web Developer
+- Learn Cybersecurity
+- Build cool projects
+
+## Projects
+- Ticketing Queue System
+
+
+<details>
+<summary><b>Achievements</b></summary>
+
+<br>
+
+###  Elementary
+- **With Honors**
+
+###  Junior High School
+- **With Honors**
+
+### Senior High School
+- **With Honors**
+  
+###
+</details>

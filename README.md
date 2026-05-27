@@ -1,6 +1,6 @@
 # **Hello I'm Aira**
 
-I’m currently studying at Fullbright College, pursuing a degree in Information Technology to expand my knowledge and skills in the world of technology. 
+I’m currently studying at Fullbright College, pursuing a degree in Information Technology to expand my knowledge and skills in the world of technology
 
 
 ## Skills

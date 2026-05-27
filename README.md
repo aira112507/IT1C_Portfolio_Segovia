@@ -1,7 +1,6 @@
-# **Hey, I'am Aira Segovia**
+# **Hello I'm Aira**
 
-🎓 IT Students    
-🐍 Currently studying Python   
+I’m currently studying at Fullbright College, pursuing a degree in Information Technology to expand my knowledge and skills in the world of technology. 
 
 
 ## Skills
@@ -17,20 +16,14 @@
 ## Projects
 - Ticketing Queue System
 
+**You can contact me here⬇️**
 
 <details>
-<summary><b>Achievements</b></summary>
+<summary><b>acc</b></summary>
 
 <br>
 
-###  Elementary
-- **With Honors**
+### email: airasegovia47@gmail.com
+### number:09268438659  
 
-###  Junior High School
-- **With Honors**
-
-### Senior High School
-- **With Honors**
-  
-###
 </details>

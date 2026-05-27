@@ -1,4 +1,10 @@
-# **Hello I'm Aira**
+# **Hello everyone I'm Aira**
+
+
+**Name:Aira Segovia**
+
+**Locantion:San Manuel Puerto Princesa City**
+
 
 I’m currently studying at Fullbright College, pursuing a degree in Information Technology to expand my knowledge and skills in the world of technology
 
@@ -6,6 +12,7 @@ I’m currently studying at Fullbright College, pursuing a degree in Information
 ## 💻Skills
 - Python
 - C Language
+- Basic html
   
 
 ## 🎯Goals
@@ -16,14 +23,14 @@ I’m currently studying at Fullbright College, pursuing a degree in Information
 ## 🚀Projects
 - Ticketing Queue System
 
-**You can contact me here⬇️**
+
 
 <details>
-<summary><b>acc</b></summary>
+<summary><b>You can contact me here⬇️</b></summary>
 
 <br>
 
 ### email: airasegovia47@gmail.com
-### number:09268438659  
+
 
 </details>

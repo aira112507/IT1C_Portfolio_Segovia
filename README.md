@@ -3,17 +3,17 @@
 I’m currently studying at Fullbright College, pursuing a degree in Information Technology to expand my knowledge and skills in the world of technology
 
 
-## Skills
+## 💻Skills
 - Python
 - C Language
   
 
-## Goals
+## 🎯Goals
 - Become a Web Developer
 - Learn Cybersecurity
 - Build cool projects
 
-## Projects
+## 🚀Projects
 - Ticketing Queue System
 
 **You can contact me here⬇️**

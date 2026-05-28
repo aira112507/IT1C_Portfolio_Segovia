@@ -3,7 +3,7 @@
 
 **Name:Aira Segovia**
 
-**Locantion:San Manuel Puerto Princesa City**
+**Location:San Manuel Puerto Princesa City**
 
 
 I’m currently studying at Fullbright College, pursuing a degree in Information Technology to expand my knowledge and skills in the world of technology
